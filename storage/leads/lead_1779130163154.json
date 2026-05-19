@@ -1,0 +1,16 @@
+{
+  "ts": "2026-05-18T18:49:23.124Z",
+  "from": " 123",
+  "body": "<script>alert('xss')</script>",
+  "activity": "Skip-The-Line: The View at The Palm – Levels 52 + 54",
+  "guests": null,
+  "email": null,
+  "date": null,
+  "isCS": false,
+  "type": "booking_inquiry",
+  "tours": [
+    "Skip-The-Line: The View at The Palm – Levels 52 + 54",
+    "Coffee at The View at The Palm – Observatory Deck Level 52",
+    "The View at The Palm Observatory Deck Ticket (Level 52)"
+  ]
+}

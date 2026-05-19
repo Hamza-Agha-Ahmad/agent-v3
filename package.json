@@ -1,0 +1,21 @@
+{
+  "name": "daycation-agent",
+  "version": "3.0.0",
+  "description": "AI-powered WhatsApp booking bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@google/generative-ai": "^0.24.1",
+    "axios": "^1.8.0",
+    "body-parser": "^2.2.0",
+    "chrono-node": "^2.7.8",
+    "dotenv": "^16.4.5",
+    "express": "^5.1.0",
+    "fs-extra": "^11.2.0",
+    "fuse.js": "^7.1.0",
+    "morgan": "^1.10.1",
+    "xml2js": "^0.6.2"
+  }
+}

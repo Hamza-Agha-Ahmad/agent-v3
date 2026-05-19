@@ -1,0 +1,16 @@
+{
+  "ts": "2026-05-18T18:43:23.412Z",
+  "from": " 123",
+  "body": "desrt sfari tomrrow 3 pax hamza@email.com",
+  "activity": "Morning Desert Safari 4×4 Sharing Basis",
+  "guests": 3,
+  "email": "hamza@email.com",
+  "date": "2026-05-19",
+  "isCS": false,
+  "type": "booking_inquiry",
+  "tours": [
+    "Morning Desert Safari 4×4 Sharing Basis",
+    "Premium Desert Safari 4×4 Sharing Vehicle",
+    "Sunrise Desert Safari with Wildlife Experience"
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "ts": "2026-05-18T18:15:43.886Z",
+  "from": " 123",
+  "body": "agent",
+  "activity": null,
+  "guests": null,
+  "email": null,
+  "date": null,
+  "time": null,
+  "isCS": true,
+  "type": "cs_request"
+}

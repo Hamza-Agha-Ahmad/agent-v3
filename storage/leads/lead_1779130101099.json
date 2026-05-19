@@ -1,0 +1,11 @@
+{
+  "ts": "2026-05-18T18:48:21.058Z",
+  "from": " 123",
+  "body": "agent",
+  "activity": "Aquaventure Ticket Only",
+  "guests": null,
+  "email": null,
+  "date": null,
+  "isCS": true,
+  "type": "cs_request"
+}

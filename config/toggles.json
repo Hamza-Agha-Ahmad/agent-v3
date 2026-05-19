@@ -1,0 +1,7 @@
+{
+  "LOCAL_FILE_STORAGE": true,
+  "AI_RESPONSE_ENGINE": false,
+  "EMAIL_CONFIRMATIONS": false,
+  "META_EVENTS_API": false,
+  "FALLBACK_WEBSITE_LINK": true
+}
