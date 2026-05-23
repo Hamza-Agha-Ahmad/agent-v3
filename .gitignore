@@ -4,7 +4,9 @@ node_modules/
 
 # Environment variables
 .env
-*/.env
+.env.local
+.env.example
+*.env
 
 # Logs
 logs/
@@ -12,7 +14,6 @@ logs/
 
 # OS files
 .DS_Store
-*/.DS_Store
 Thumbs.db
 
 # IDE
@@ -24,9 +25,21 @@ dist/
 build/
 .next/
 
+# Core logic - PRIVATE (do not expose)
+index.js
+server/index.js
+server/llm.js
+
 # Storage (runtime data)
-storage/*.json
+storage/
+storage/leads/
+storage/audit.json
 !storage/.gitkeep
+
+# Test files
+test-suite.js
+test-questions.json
+test-results/
 
 # Videos and large files
 *.mp4
@@ -34,9 +47,9 @@ storage/*.json
 *.avi
 
 # Temp files
+*.pkg
+*.zip
+ngrok*
 project-tree.txt
 show_tree.py
 cleanup.py
-node-installer.pkg
-*.pkg
-.env.local
